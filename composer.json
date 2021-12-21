@@ -1,0 +1,19 @@
+{
+	"name": "markbiek/zoey-account-permissions",
+	"description": "An account permissions system to limit the logged in account’s access to resources and actions on the frontend of an e-commerce website.",
+	"authors": [
+		{
+			"name": "Mark Biek",
+			"email": "info@biek.org"
+		}
+	],
+	"require": {
+		"php": ">=7.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Zoey\\": "src",
+			"Tests\\": "tests"
+		}
+	}
+}
