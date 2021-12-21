@@ -15,5 +15,8 @@
 			"Zoey\\": "src",
 			"Tests\\": "tests"
 		}
+	},
+	"require-dev": {
+		"pestphp/pest": "^1.21"
 	}
 }
